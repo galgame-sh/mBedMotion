@@ -9,7 +9,7 @@ int main()
         wait(0.1);
         
         
-        if (DSensor = 0.2)
+        if (DSensor >= 0.2)
         {
         led1 = 0;
         }
